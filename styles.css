@@ -16,10 +16,7 @@ ul {
 
 /*imagem de fundo da pagina*/
 body { 
-    background-image: var(--bg);
-    background-position: top center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: var(--bg) no-repeat top center/cover;
 }
 
 /*fonte das letras*/
