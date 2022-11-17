@@ -16,7 +16,7 @@ ul {
 
 /*imagem de fundo da pagina*/
 body { 
-    background: var(--bg) no-repeat top center/cover;
+    background: black var(--bg) no-repeat top center/cover;
 }
 
 /*fonte das letras*/
